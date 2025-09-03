@@ -63,7 +63,7 @@ Unity-based software for programming and simulating manipulator robots. URAlight
 ### Download app
 
 Grab packaged builds from the Releases page:
-`https://github.com/vasu-sutariya/Uralight/releases`
+[https://github.com/vasu-sutariya/Uralight/releases]
 
 ### Project Status
 
